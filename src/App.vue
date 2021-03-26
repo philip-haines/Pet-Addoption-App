@@ -10,4 +10,9 @@
 	<router-view />
 </template>
 
-<style lang="scss"></style>
+<style>
+body {
+	margin: 0;
+	padding: 0;
+}
+</style>
